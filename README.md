@@ -47,7 +47,7 @@
   <a href="https://instagram.com/jakelineliima" target="_blank"><img
       src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       target="_blank"></a>
-  <a href="jaqueline.liima555@gmail.com"><img
+  <a href="mailto:jaqueline.liima555@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
   <a href="https://www.linkedin.com/in/jaquelinelimadev/" target="_blank"><img
