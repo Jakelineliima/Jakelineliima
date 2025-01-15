@@ -1,6 +1,6 @@
-## Olá eu sou a Jaqueline Lima, Tecnóloga em sistemas para internet e estudante de Engenharia de Software.
+## Olá eu sou a Jaqueline Lima, Tecnóloga em sistemas para internet.
 
-Sou apaixonada em desenvolvimento back-end.
+Desenvolvimento back-end.
 
 <div align="center">
   <a href="https://github.com/jakelineliima">
