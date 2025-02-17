@@ -1,13 +1,7 @@
-## Olá eu sou a Jaqueline Lima, Tecnóloga em sistemas para internet.
-
-Desenvolvimento back-end.
+## Olá eu sou a Jaqueline Lima desenvolvedora full stack, formada em Sistemas para Internet.
 
 <div align="center">
-  <a href="https://github.com/jakelineliima">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=jakelineliima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakelineliima&layout=compact&langs_count=7&theme=dracula" />
+  <a href="https://github.com/jakelineliima"></a>
 </div>
   
   <div>
